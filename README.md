@@ -1,1 +1,6 @@
-All APIs code of backend in Java you can use these code to make an APIs  it make easy for you 
+controller package
+service package
+model package - for object classes
+Data access object (DAO) package- database access
+(JPA repository)
+
